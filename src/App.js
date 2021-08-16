@@ -1,9 +1,9 @@
 //import './App.css';
 import Container from "./components/container/Container";
 import Profile from "./components/social-profile/Profile";
-import Statistics from "components/statistics/Statistics";
-import FriendList from "components/friendList/FriendList";
-import TransactionHistory from "components/transactionHistory/TransactionHistory";
+import Statistics from "./components/statistics/Statistics";
+import FriendList from "./components/friendList/FriendList";
+import TransactionHistory from "./components/transactionHistory/TransactionHistory";
 
 import user from "./user.json";
 import statisticalData from "./statistical-data.json";
